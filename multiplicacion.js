@@ -1,3 +1,3 @@
-multiplicacion(a, b) {
-    return a * b;
+multiplicacion(a, b){
+    return a*node --versionb
 }
