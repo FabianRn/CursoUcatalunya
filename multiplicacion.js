@@ -1,3 +1,0 @@
-multiplicacion(a, b){
-
-}
